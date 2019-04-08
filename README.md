@@ -13,3 +13,4 @@ The theta range is defined form -89 to 90 degree(Can be modified in .h file).
 
 Example refer to main.cpp.
 
+Some detail can refer to: https://blog.csdn.net/ljwcdtj/article/details/89091060 (IN CHINESE)
